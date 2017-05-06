@@ -1,4 +1,13 @@
 *.class
+*.dll
+*.zip
+*.sha1
+*.git
+.metadata
+.settings
+.recommenders
+.classpath
+.project
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
